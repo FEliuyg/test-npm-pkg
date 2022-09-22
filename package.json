@@ -1,0 +1,16 @@
+{
+  "name": "@xiaoyaoliu/test-npm",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "xiaoyao",
+  "license": "ISC",
+  "devDependencies": {
+    "release-it": "^15.4.2"
+  }
+}
