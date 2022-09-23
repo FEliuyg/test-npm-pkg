@@ -3,6 +3,6 @@
     "commitMessage": "release: v${version}"
   },
   "npm": {
-    "publish": true
+    "publish": false
   }
 }
