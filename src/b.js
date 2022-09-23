@@ -1,3 +1,3 @@
-export default function minux(a, b) {
-  return a - b;
+export default function minux(a, b, c) {
+  return a - b - c;
 }
